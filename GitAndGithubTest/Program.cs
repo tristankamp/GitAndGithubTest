@@ -10,6 +10,8 @@ namespace GitAndGithubTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Dette er en udskrivning lavet lokalt");
+            Console.ReadLine();
         }
     }
 }
