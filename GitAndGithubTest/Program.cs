@@ -12,6 +12,7 @@ namespace GitAndGithubTest
         {
             //Dette er lavet lokalt
             Console.WriteLine("Dette er en udskrivning lavet lokalt");
+            //Dette er en kommentar i github
             Console.ReadLine();
         }
     }
